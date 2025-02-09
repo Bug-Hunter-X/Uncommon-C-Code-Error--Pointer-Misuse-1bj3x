@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating an uncommon code error related to pointer manipulation. The bug.c file shows the erroneous code. The bugSolution.c file provides a corrected version of the code, with explanations for the fixes in the comments.
