@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; // Ensure memory is allocated before dereferencing  if (ptr != NULL) { *ptr = 20; printf("%d\n", x); } else { fprintf(stderr, "Memory allocation failed\n"); return 1; } return 0;} 
